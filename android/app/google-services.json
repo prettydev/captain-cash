@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "453126201022",
+    "firebase_url": "https://captain-cash-4c5be.firebaseio.com",
+    "project_id": "captain-cash-4c5be",
+    "storage_bucket": "captain-cash-4c5be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453126201022:android:9f775c1d6801b20f7b88ef",
+        "android_client_info": {
+          "package_name": "com.captaincash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453126201022-sr753qtjerhtrh53dac0jdtlg611rb9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.captaincash",
+            "certificate_hash": "ca47d48a667230e93a9c9c4cef333f052a8c64ac"
+          }
+        },
+        {
+          "client_id": "453126201022-k8qnhnbvtkpli73ic3m2givpghj4l64v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFTydeTt_ddR-hnl7ES1Dbrcqe478n_Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453126201022-k8qnhnbvtkpli73ic3m2givpghj4l64v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

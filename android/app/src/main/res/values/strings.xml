@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CaptainCash</string>
+    <string name="fb_app_id">791889227864537</string>
+    <string name="fb_login_protocol_scheme">fb791889227864537</string>
+</resources>
